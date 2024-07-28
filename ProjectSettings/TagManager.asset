@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Przeciwnik
+  - ObiektyZbieralne
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Przeciwnicy
+  - Postacie
+  - ObiektyZbieralne
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ziemia
+    uniqueID: 1571779613
+    locked: 0
+  - name: Znajdzki
+    uniqueID: 999953415
+    locked: 0
+  - name: Krzoki
+    uniqueID: 70530729
+    locked: 0
+  - name: Postacie
+    uniqueID: 2247985593
+    locked: 0
